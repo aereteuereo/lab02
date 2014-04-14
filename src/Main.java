@@ -13,7 +13,7 @@ public class Main {
 		frame.add(button);
 	    button.setText("PRESIONAME");
 		frame.setTitle("Mi primera ventana");
-		frame.setSize(800,600);
+		frame.setSize(1024,800);
 		
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		     frame.setVisible(true);
